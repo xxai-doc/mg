@@ -2,9 +2,9 @@
 
 * [Tranonkala antontan-taratasy amin'ny fiteny maro](https://github.com/xxai-doc)
 
-Loharanom-baovao misokatra ny kaody farany amin'ny vohikala, tongasoa eto hanampy amin'ny fanatsarana ny fandikan-teny
+Open source ny code frontend an'ny vohikala, tongasoa eto hanampy amin'ny fanatsarana ny dikanteny
 
-* [kaody eo anoloana](https://github.com/xxai-art/web)
+* [Code Frontend](https://github.com/xxai-art/web)
 * [Fonosana fiteny ho an'ny tranokala manontolo](https://github.com/xxai-art/web/tree/main/i18n)
 * [Fonosana fiteny ho an'ny maody fidirana](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Tranonkala antontan-taratasy amin'ny fiteny maro](https://github.com/xxai-doc)
